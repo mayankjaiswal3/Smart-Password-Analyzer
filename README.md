@@ -4,7 +4,7 @@ This project evaluates the strength of a password and suggests a cryptographical
 
 As a professional building real-world analytics and Python projects, I structured this repository to clearly separate my core backend logic from the frontend presentation.
 
-**[🔗 Click Here to view the Live Web Demo](#)**
+**[🔗 Click Here to view the Live Web Demo](#)** (https://smart-password-analyzer-b6t3zwt2jtvg6m483nn97k.streamlit.app/)**
 
 ## 📂 Repository Structure
 
