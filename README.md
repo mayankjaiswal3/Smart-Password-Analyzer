@@ -16,7 +16,7 @@ To maintain complete transparency, this project is divided into two distinct par
 2. **`AI_Generated_Streamlit_UI.py` (Frontend Demo):** 
    Since my primary expertise is in backend Python logic and data analysis rather than frontend development, I leveraged an AI assistant to wrap my original Python algorithm into an interactive Streamlit UI. This allows non-technical users to easily test the logic.
 
-## 🚀 Features
+## 🚀 Features 
 - **Real-Time Analysis:** Analyzes length, uppercase, lowercase, digits, and special characters.
 - **Dynamic Security Scoring:** Calculates a precise security score out of 10.
 - **Smart Suggestions:** Automatically generates a randomized, highly secure password string if the user's input is weak.
