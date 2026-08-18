@@ -73,7 +73,7 @@ st.title("🔒 Password Strength Analyzer")
 st.markdown("Enter your password to check its strength. If it is weak, the analyzer will suggest a stronger alternative for you!")
 
 # User Input
-password = st.text_input("Enter your password:", type="password", help="Type your password here to analyze it.")
+password = st.text_input("Enter your password:", type="default")
 
 # Analysis and Results Display
 if password:
